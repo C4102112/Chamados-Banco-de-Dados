@@ -2,7 +2,7 @@
 $servername = "localhost";
 $database = "chamados"; 
 $username = "root";
-$password = "root";
+$password = "root"; // obs: meu sql esta com senha !!!
 
 $conn = mysqli_connect($servername, $username, $password, $database);
 
